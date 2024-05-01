@@ -1,0 +1,36 @@
+
+
+p {
+    color: green;
+    text-align: center;
+    font-size: 18px;
+    width: 50%;
+}
+
+.form-paragraph{
+    color: purple;
+}
+
+div{
+    width: 50vw;
+    background-color: white;
+}
+
+#special-paragraph{
+    color: yellow;
+    background-color: black;
+    width: 75vw;
+    height: 10vh;
+    border: 3px solid red;
+    padding: 25px;
+    margin: 150px;
+}
+
+table{
+    background-color: aquamarine;
+}
+
+body{
+    background-image: url('https://i.pinimg.com/564x/ab/58/cc/ab58cc75dcb2e42555cf7e614216350a.jpg');
+    background-size: cover;
+}
